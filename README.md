@@ -1,8 +1,6 @@
 # Welcome to BabySPELL!
 
-BabySPELL offers dividend yield paid automatically in $SPELL.
-
-Just hold $BABYSPELL and you’ll receive $SPELL automatically in your wallet.
+BabySPELL offers dividend yield paid automatically in $SPELL. Just hold $BABYSPELL and you’ll receive $SPELL automatically in your wallet.
 
 ## Who are we?
 BabySPELL is a community-driven project founded by three young and motivated individuals from different backgrounds. Joe, our Community Manager is trying to become an Influencer in his spare time. Mose, our super Dev, as we like to call him, likes to wrap his head around bubble wrap, hope he’ll be fine! And of course, Elec, our incredible Designer and Web Developer has, fortunately, time for DeFi besides his Ph.D. Program.
